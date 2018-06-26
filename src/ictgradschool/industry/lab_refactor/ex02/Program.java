@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab18.ex02;
+package ictgradschool.industry.lab_refactor.ex02;
 
 import java.awt.*;
 import java.awt.event.*;

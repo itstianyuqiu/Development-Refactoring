@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab18.ex01;
+package ictgradschool.industry.lab_refactor.ex01;
 
 import org.junit.Test;
 
